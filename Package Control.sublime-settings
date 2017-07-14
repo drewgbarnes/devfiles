@@ -1,0 +1,28 @@
+{
+  "bootstrapped": true,
+  "in_process_packages":
+  [
+  ],
+  "installed_packages":
+  [
+    "A File Icon",
+    "AutoPEP8",
+    "Babel",
+    "Babel Snippets",
+    "Case Conversion",
+    "Emmet",
+    "ESLint",
+    "GitHubinator",
+    "Highlight Whitespaces",
+    "HTML-CSS-JS Prettify",
+    "JsPrettier",
+    "LESS",
+    "Package Control",
+    "Pretty JSON",
+    "Random Everything",
+    "SideBarEnhancements",
+    "SublimeLinter",
+    "SublimeLinter-contrib-eslint",
+    "SublimeLinter-pylint"
+  ]
+}

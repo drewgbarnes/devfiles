@@ -1,19 +1,20 @@
 {
-  "always_prompt_for_file_reload": false,
-  "bold_folder_labels": true,
-  "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-  "drag_text": false,
-  "draw_indent_guides": true,
-  "ensure_newline_at_eof_on_save": true,
-  "font_size": 20,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "line_padding_bottom": 3,
-  "line_padding_top": 3,
-  "margin": 10,
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_trailing_white_space_on_save": true
+	"always_prompt_for_file_reload": false,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"drag_text": false,
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 17,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 10,
+	"show_tab_close_buttons": false,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }

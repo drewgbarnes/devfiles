@@ -14,6 +14,7 @@
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"margin": 10,
+	"rulers":[100],
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,

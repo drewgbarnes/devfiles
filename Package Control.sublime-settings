@@ -23,6 +23,7 @@
     "SideBarEnhancements",
     "SublimeLinter",
     "SublimeLinter-contrib-eslint",
-    "SublimeLinter-pylint"
+    "SublimeLinter-pylint",
+    "SqlBeautifier"
   ]
 }

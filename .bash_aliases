@@ -1,0 +1,10 @@
+alias be="open ~/.bash_aliases"
+
+alias gs="git status"
+alias gb="git branch"
+alias gc="git checkout"
+alias gp="git pull"
+alias gcm="git checkout master"
+alias gsp="git stash pop"
+alias gsl="git diff --numstat"
+alias bell="echo -e \"\a\""

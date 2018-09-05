@@ -1,29 +1,33 @@
 {
-  "bootstrapped": true,
-  "in_process_packages":
-  [
-  ],
-  "installed_packages":
-  [
-    "A File Icon",
-    "AutoPEP8",
-    "Babel",
-    "Babel Snippets",
-    "Case Conversion",
-    "Emmet",
-    "ESLint",
-    "GitHubinator",
-    "Highlight Whitespaces",
-    "HTML-CSS-JS Prettify",
-    "JsPrettier",
-    "LESS",
-    "Package Control",
-    "Pretty JSON",
-    "Random Everything",
-    "SideBarEnhancements",
-    "SublimeLinter",
-    "SublimeLinter-contrib-eslint",
-    "SublimeLinter-pylint",
-    "SqlBeautifier"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoPEP8",
+		"Babel",
+		"Babel Snippets",
+		"Case Conversion",
+		"Color Highlighter",
+		"Emmet",
+		"GitHubinator",
+		"Highlight Duplicates",
+		"Highlight Whitespaces",
+		"HTML-CSS-JS Prettify",
+		"JsPrettier",
+		"LESS",
+		"MoveTab",
+		"Package Control",
+		"Predawn",
+		"Pretty JSON",
+		"Random Everything",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-pylint"
+	]
 }
